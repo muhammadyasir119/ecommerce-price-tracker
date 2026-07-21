@@ -1,5 +1,5 @@
 # Ecommerce-price-tracker
-.
+
 # 🛒 Automated E-Commerce Price & Competitor Tracker
 
 A Python-based web scraping and data processing tool designed to monitor product pricing, inventory availability, and customer ratings from e-commerce platforms. Built to help online store owners make data-driven pricing and strategy decisions.
