@@ -23,3 +23,6 @@ A Python-based web scraping and data processing tool designed to monitor product
 1. Clone this repository:
    ```bash
    git clone [https://github.com/muhammadyasir119/ecommerce-price-tracker.git](https://github.com/muhammadyasir119/ecommerce-price-tracker.git)
+pip install pandas nltk
+python sentiment_analyzer.py
+---
